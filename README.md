@@ -1,7 +1,7 @@
 # LAPD_Crime_Analytics
 LAPD crime analysis - Excel, SQL and Power BI dashboard
 
-Description
+Description- 
 Excel for data overview and brief transformation
 MSSQL Server Data Cleaning & Preparation
 Power BI Data Modeling
